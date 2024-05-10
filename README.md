@@ -3,7 +3,7 @@ This is my first internship project, as a part of my learning.
 
 Learnings :-
 1. Gained some basic knowledge of Food Delivery & Restaurant Domain
-2. Learnt some important key metrics of  Food Delivery & Restaurant Domain such as Total Restraurants, City, Country, Rating, Online Deliver%, Table Booking%.
+2. Learnt some important key metrics of  Food Delivery & Restaurant Domain such as Total Restaurants, City, Country, Rating, Online Delivery%, Table Booking%.
 3. Learnt how to use buttons as page navigators.
 4. Tried using color palette and stick with that colors throughout the Dashboard.
 
